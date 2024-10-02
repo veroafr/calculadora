@@ -1,0 +1,2 @@
+1- Abrir o powershell ou terminal dentro da pasta
+2- Digitar o comando  >>  npm test
